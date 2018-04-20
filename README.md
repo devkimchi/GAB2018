@@ -1,6 +1,6 @@
 # GAB2018 - Head to Head Azure Functions V1 and V2 #
 
-This provides sample codes for Global Azure Bootcamp 2018 in Melbourne.
+This provides sample codes for [Global Azure Bootcamp 2018 in Melbourne](https://www.meetup.com/en-AU/Melbourne-Azure-Nights/events/243777153/).
 
 
 ## License ##
